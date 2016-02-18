@@ -1,2 +1,8 @@
 # python_ecg_graph
-plotting from arduino ecg sensor
+Plotting from arduino ecg sensor
+
+Requirements:
+-Python 2
+-PySerial
+-PyGTK, Cairo
+
