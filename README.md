@@ -1,4 +1,4 @@
-# python_ecg_graph
+# python_data_graph
 Plotting from arduino ecg sensor
 
 Requirements:
